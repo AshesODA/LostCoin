@@ -1,0 +1,1 @@
+&"C:\Users\Root\Desktop\Bit-off\x64\Release\LostCoins.exe" -t 3 -f .\b2.bin -r 2 -n 256
